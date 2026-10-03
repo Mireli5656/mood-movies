@@ -4,7 +4,7 @@
   /* ============ KONFİQURASİYA ============
      İstəyə bağlı: TMDB açarını bura yaz (https://www.themoviedb.org/settings/api).
      Boş qalsa, lokal poster linkləri istifadə olunur. */
-  const TMDB_API_KEY = "";
+  const TMDB_API_KEY = "https://api.themoviedb.org/3/configuration";
   const IMG = "https://image.tmdb.org/t/p/w500";
 
   const PLACEHOLDER =
